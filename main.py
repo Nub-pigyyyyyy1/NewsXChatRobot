@@ -29,7 +29,7 @@ logging.info('Starting Bot...')
 # all update.message are reply from bots to user
 def start(update, context):
     update.message.reply_text
-        "Hey there, I'm an Ai chat bot that can communicate with you. You can get the most up-to-date tech news from devto or tldr, and more services will be added shortly..\n To start, say hey, hi, or hello.\n Get all Commands -/cmd"
+             "Hey there, I'm an Ai chat bot that can communicate with you. You can get the most up-to-date tech news from devto or tldr, and more services will be added shortly..\n To start, say hey, hi, or hello.\n Get all Commands -/cmd"
 buttons = [
           
        [ 
